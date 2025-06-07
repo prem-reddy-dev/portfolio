@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.92c8d4eb.css",
-    "main.js": "/portfolio/static/js/main.eb6a3239.js",
+    "main.js": "/portfolio/static/js/main.a292defc.js",
     "static/media/04-cvs-logo.png": "/portfolio/static/media/04-cvs-logo.8846281e89cc6ddf54c7.png",
     "index.html": "/portfolio/index.html",
     "main.92c8d4eb.css.map": "/portfolio/static/css/main.92c8d4eb.css.map",
-    "main.eb6a3239.js.map": "/portfolio/static/js/main.eb6a3239.js.map"
+    "main.a292defc.js.map": "/portfolio/static/js/main.a292defc.js.map"
   },
   "entrypoints": [
     "static/css/main.92c8d4eb.css",
-    "static/js/main.eb6a3239.js"
+    "static/js/main.a292defc.js"
   ]
 }
